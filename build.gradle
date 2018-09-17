@@ -1,0 +1,13 @@
+buildscript {
+    repositories {
+        jcenter()
+        mavenLocal()
+        maven {
+            url "http://platform-acceleration-lab-maven.s3.amazonaws.com"
+        }
+    }
+
+    dependencies {
+        classpath "io.pivotal.pal.shipkin:shipkin-plugin:7.0.3"
+    }
+}

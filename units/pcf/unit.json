@@ -1,0 +1,70 @@
+{
+  "title": "PCF",
+  "subjects": [
+    {
+      "lessons": [
+        {
+          "title": "Set up",
+          "materials": [
+            {
+              "location": "setup.html",
+              "title": "lab"
+            }
+          ]
+        },
+        {
+          "title": "Cloud Foundry Overview",
+          "materials": [
+            {
+              "title": "slides",
+              "type":"google-presentation",
+              "location": "1z6XPiZbuKu08W-MYQylpI-NbTedBR5r1v8YLWnqIm6Y"
+            }
+          ]
+        },
+        {
+          "title": "Cloud Foundry Architecture",
+          "materials": [
+            {
+              "title": "slides",
+              "type":"google-presentation",
+              "location": "1y_WWj0MOI2YyX-ecSZpmasq4s2citR5Ip06PBByHSWI"
+            },
+            {
+              "title": "lab",
+              "location": "pcf.html"
+            }
+          ]
+        },
+        {
+          "title": "Services",
+          "materials": [
+            {
+              "title": "slides",
+              "type":"google-presentation",
+              "location": "1SCDoDFSoLtWoSJvYO1P83t8jkAdMOzaFWp3O_P70TSo"
+            },
+            {
+              "title": "lab",
+              "location": "services.html"
+            }
+          ]
+        },
+        {
+          "title": "Service Brokers",
+          "materials": [
+            {
+              "title": "slides",
+              "type":"google-presentation",
+              "location": "1DTFbuVGOodfW_o94jbRB770G31c0aZ_eHqtl961V4wQ"
+            },
+            {
+              "title": "lab",
+              "location": "service-brokers.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

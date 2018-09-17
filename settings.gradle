@@ -1,0 +1,3 @@
+rootProject.name = 'partner-days-workshop'
+
+include ":courses:partner-days-workshop"

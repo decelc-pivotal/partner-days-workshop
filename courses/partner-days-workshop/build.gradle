@@ -1,0 +1,30 @@
+apply plugin: "io.pivotal.pal.shipkin.plugin"
+
+shipkin {
+    baseName = "partner-days-workshop"
+    courseVersion = "1.0.0"
+    courseTitle = "Partner Days Workshop"
+    useSecurity = false
+
+    reviewSpace = "workshops-review"
+    productionSpace = "workshops-production"
+
+    units = ["pcf", "pks", "bosh"]
+
+    theme {
+        mainColor = "#00a79b"
+        linkColor = "#00a79b"
+        accentColor = "#00a79b"
+        favicon = "/images/favicon.ico"
+
+        slideImage = "/images/p.png"
+        logoImage = "/images/pd-workshop.svg"
+
+        font {
+            family = "'Raleway', sans-serif"
+            url = "'https://fonts.googleapis.com/css?family=Raleway:500,500i,700,700i'"
+        }
+    }
+}
+
+defaultTasks "tasks"

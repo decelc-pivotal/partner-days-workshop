@@ -1,0 +1,32 @@
+{
+  "title": "PKS",
+  "subjects": [
+    {
+      "lessons": [
+        {
+          "title": "Set up",
+          "materials": [
+            {
+              "location": "setup.html",
+              "title": "lab"
+            }
+          ]
+        },
+        {
+          "title": "PKS",
+          "materials": [
+            {
+              "title": "slides",
+              "type":"google-presentation",
+              "location": "11SNGXppmoxy5WrSVJ-1aLGZztI7EclBWre6UmkaDw3M"
+            },
+            {
+              "title": "lab",
+              "location": "pks.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

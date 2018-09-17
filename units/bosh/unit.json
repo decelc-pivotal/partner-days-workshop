@@ -1,0 +1,32 @@
+{
+  "title": "Bosh",
+  "subjects": [
+    {
+      "lessons": [
+        {
+          "title": "Set up",
+          "materials": [
+            {
+              "location": "setup.html",
+              "title": "lab"
+            }
+          ]
+        },
+        {
+          "title": "BOSH 101",
+          "materials": [
+            {
+              "title": "slides",
+              "type":"google-presentation",
+              "location": "1minzp5TnLJWW7eAqkXUoNdetC-QtmcFa58T1T0-NL_c"
+            },
+            {
+              "title": "lab",
+              "location": "bosh.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

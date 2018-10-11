@@ -4,6 +4,8 @@ shipkin {
     baseName = "partner-days-workshop"
     courseVersion = "1.0.0"
     courseTitle = "Partner Days Workshop"
+
+    feedbackUrl = "https://docs.google.com/forms/d/1mWfNNOwRIqnZL_lzOvcMUb6-zYiDTaLLSNRfHwyS3nk/viewform"
     useSecurity = false
 
     reviewSpace = "workshops-review"
